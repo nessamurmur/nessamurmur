@@ -1,4 +1,7 @@
 ## About Me
+![gif of Jake the Dog from Adventure Time saying Dude, sucking at something is the first step to being sorta good at something.](imgs/jake.gif)
+> "Dude, sucking at something is the first step to being sorta good at something."  
+> – Jake the Dog, Adventure Time
 
 Hi, I'm Nessa Jane (or NJ) — a Software Engineering Manager at Etsy, coach for lead engineers & people leaders, and an open-source enthusiast. I've been a software engineer for about 15 years, with experience across Ruby, Python, Node, Elixir, Erlang, Clojure, Haskell, Elm, and more. I'm especially passionate about functional programming and Linux. I've been a Linux nerd since age 12, back when ISOs came in magazines.
 
@@ -12,6 +15,4 @@ I love collaboration and working with other engineers of all levels. Feel free t
 - [nessajane.tech](https://nessajane.tech) (personal blog)
 - [divergentmindsthrive.com](https://divergentmindsthrive.com) (coaching)
 
-![gif of Jake the Dog from Adventure Time saying Dude, sucking at something is the first step to being sorta good at something.](imgs/jake.gif)
-> "Dude, sucking at something is the first step to being sorta good at something."  
-> – Jake the Dog, Adventure Time
+
