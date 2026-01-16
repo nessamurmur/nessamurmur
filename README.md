@@ -11,8 +11,8 @@ I started [@christopheradams/elixir_style_guide](https://github.com/christophera
 
 I love collaboration and working with other engineers of all levels. Feel free to connect or check out more:
 - [LinkedIn](https://linkedin.com/in/divergentmindsthrive)
+- [Mastadon](https://tech.lgbt/@nessamurmur)
 - [Bluesky](https://bsky.app/profile/nessamurmur.bsky.social)
 - [nessajane.tech](https://nessajane.tech) (personal blog)
-- [divergentmindsthrive.com](https://divergentmindsthrive.com) (coaching)
 
 
